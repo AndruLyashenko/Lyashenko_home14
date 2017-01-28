@@ -1,106 +1,149 @@
-.button-have-main {
-  color: #ffffff;
-  font-family: 'Raleway', sans-serif;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 22px;
-  text-transform: uppercase;
+.button-aboutus {
   border-radius: 5px;
-  background-color: #e7434e;
-  padding: 25px 45px;
-}
-
-
-.header-button {
-  text-decoration: none;
-  text-align: center;
-  border-radius: 0 5px 5px 0;
-  background-color: #e7434e;
-  background-image: url("../images/sailboat.png");
-  background-repeat: no-repeat;
-  padding: 22px 41px 22px 68px;
-  background-position: 40px center;
+  padding: 18px 26px;
+  background-color: #16d428;
   color: #ffffff;
-  font-family: 'Raleway', sans-serif;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 22px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 30px;
   text-transform: uppercase;
+
+}
+
+.button-aboutus:hover {
+  background-color: yellow;
+  color: blue;
+
+}
+
+.button-banking {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 33px;
+  text-transform: uppercase;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 12px 27px;
+  border: 2px solid #ffac56;
+}
+
+.button-banking:hover {
+  background-color: yellow;
+  color: blue;
+
+}
+
+.button-features {
   float: right;
-  margin-right: 250px;
+  width: 50%;
+  border-radius: 5px;
+  padding: 17px 33px;
+  background-color: #16d428;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 30px;
+  text-transform: uppercase;
 }
 
-
-.header-button:hover {
-  background-color: yellowgreen;
+.button-features:hover {
+  background-color: yellow;
   color: blue;
 
 }
 
-.button-have-main:hover {
-  background-color: yellowgreen;
+.button-projects {
+  border-radius: 5px;
+  padding: 17px 30px;
+  background-color: #16d428;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 30px;
+  text-transform: uppercase;
+
+}
+
+.button-projects:hover {
+  background-color: yellow;
   color: blue;
 
 }
+
+.button-services {
+  border-radius: 5px;
+  padding: 17px 32px;
+  background-color: #16d428;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 30px;
+  text-transform: uppercase;
+
+}
+
+.button-services:hover {
+  background-color: yellow;
+  color: blue;
+
+}
+
+.button-blog {
+  border-radius: 5px;
+  padding: 17px 32px;
+  background-color: #16d428;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 30px;
+  text-transform: uppercase;
+
+}
+
+.button-blog:hover {
+  background-color: yellow;
+  color: blue;
+
+}
+
+
+
 .footer-button {
   color: #ffffff;
-  font-family: "Open Sans", sans-serif;
-  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
   font-weight: 400;
-  line-height: 22px;
+  line-height: 35px;
   text-transform: uppercase;
   border-radius: 0 5px 5px 0;
-  background-color: #e7434e;
-  padding: 15px 35px;
+  padding: 21px 24px;
   float: left;
+  background-color: #16d428;
+
 
 }
 
 .footer-button:hover {
-  background-color: yellowgreen;
+  background-color: yellow;
   color: blue;
 
 }
 
-.button-explore {
-  font-family: 'Raleway', sans-serif;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 22px;
-  text-transform: uppercase;
-  border-radius: 5px;
-  background-color: #ffffff;
-  padding: 25px 43px;
-  color: #343434;
-  border: 1px solid rgba(38, 38, 38, 0.3);
-  background-color: rgba(113, 113, 113, 0);
 
-}
 
 .button-explore:hover {
-  background-color: yellowgreen;
+  background-color: yellow;
   color: blue;
 
 }
 
-.button-featured {
-  font-family: 'Raleway', sans-serif;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 22px;
-  text-transform: uppercase;
-  border-radius: 5px;
-  background-color: #ffffff;
-  padding: 25px 48px;
-  color: #343434;
-  border: 1px solid rgba(38, 38, 38, 0.3);
-  background-color: rgba(113, 113, 113, 0);
 
 
-}
-
-.button-featured:hover {
-  background-color: yellowgreen;
-  color: blue;
-
-}
